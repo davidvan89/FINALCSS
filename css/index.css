@@ -57,10 +57,11 @@ nav > ul  li{
 }
 
 a{
-	color: white;	
+	color: white;
+	text-decoration: none;
 }
 a:hover{
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 figcaption a{
